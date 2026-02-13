@@ -1,0 +1,6 @@
+curl https://api.github.com/repos/DK-1717/mcino-Introduction-to-Git-and-GitHub > forked-repo
+cat forked-repo
+"fork": true,
+"parent": {
+  "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
